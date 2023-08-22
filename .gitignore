@@ -1,0 +1,13 @@
+work/
+*.log.*
+plate1/
+plate1_1/
+bash/
+work/
+.nextflow/
+.nextflow.pid
+.nextflow.log
+*log
+output/
+*.out
+env/
